@@ -1,6 +1,7 @@
 # MassYoutubeDownloader
 Requirements:
 ```pip install yt-dlp```
+YT-DLP Credits: [Here]([https://openai.com](https://pypi.org/project/yt-dlp/))
 
 ## Usage
 ```
